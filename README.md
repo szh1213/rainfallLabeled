@@ -1,2 +1,3 @@
-# rainfallLabeled
-降雨强度识别及标注
+# 降雨标注工具
+
+![](./display.jpg)
